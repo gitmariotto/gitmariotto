@@ -70,7 +70,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Linkedln](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nicolymariotosenai@gmail.com)
+  [![Linkedln](https://img.shields.io/badge/Linkdln-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nicoly-souza-marioto-07g08)
   
 </div>
 
